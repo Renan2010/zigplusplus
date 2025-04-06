@@ -1,5 +1,4 @@
-![ZIG](https://ziglang.org/img/zig-logo-dynamic.svg)
-
+![zigplusplus](https://github.com/user-attachments/assets/d73b056b-8792-470a-a476-6c0f2a0624dd)
 A general-purpose programming language and toolchain for maintaining
 **robust**, **optimal**, and **reusable** software.
 
